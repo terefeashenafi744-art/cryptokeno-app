@@ -1,0 +1,12 @@
+platform :ios, '14.0'
+
+target 'CryptoKeno' do
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Messaging'
+  pod 'Starscream' # WebSocket
+  pod 'web3.swift'
+  pod 'KeychainAccess'
+end

@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Android
+.idea/
+*.iml
+.DS_Store
+local.properties
+
+# iOS
+Pods/
+.xcworkspace/
+*.xcarchive
+*.ipa
+DerivedData/
+
+# Node
+node_modules/
+yarn.lock
+package-lock.json
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
